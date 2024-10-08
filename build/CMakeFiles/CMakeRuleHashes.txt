@@ -1,0 +1,12 @@
+# Hashes of file build rules.
+588be5f69e38901151b2bdfa5873d9b7 igraph_build/src/io/parsers/dl-lexer.c
+67601066927f8578e6ed07d2e5d7ba09 igraph_build/src/io/parsers/dl-parser.c
+577d6f4c6753906ee89a48b8da632365 igraph_build/src/io/parsers/gml-lexer.c
+3832f98ac2321cea7c7e11520aff3c73 igraph_build/src/io/parsers/gml-parser.c
+c6656cdc61d78062cd51814d24149ef1 igraph_build/src/io/parsers/lgl-lexer.c
+457a1540e31c805881248770548a2587 igraph_build/src/io/parsers/lgl-parser.c
+116b4768087f9391c7b5d72370809888 igraph_build/src/io/parsers/ncol-lexer.c
+7bad311bb3dd64c81e9cb5d4fdcf7b01 igraph_build/src/io/parsers/ncol-parser.c
+8c78ba06cbee4494a5d1fad879334833 igraph_build/src/io/parsers/pajek-lexer.c
+8901a8f3251797d3b197ffbe87389620 igraph_build/src/io/parsers/pajek-parser.c
+6c6545b5712a55212c0053211f727f92 igraph_build/vendor/f2c/arith.h

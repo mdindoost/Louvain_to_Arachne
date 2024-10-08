@@ -1,0 +1,13 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+libdir=${exec_prefix}/lib64
+includedir=${prefix}/include
+
+Name: libigraph
+Description: A library for creating and manipulating graphs
+Version: 0.10.13
+URL: https://igraph.org
+Libs: -L${libdir} -ligraph
+Libs.private: -lm -lstdc++ -lgmp -lgomp -lpthread
+Requires.private: 
+Cflags: -I${includedir}/igraph

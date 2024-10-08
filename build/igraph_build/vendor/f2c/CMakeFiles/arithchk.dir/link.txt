@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/arithchk.dir/arithchk.c.o -o arithchk  -lm 

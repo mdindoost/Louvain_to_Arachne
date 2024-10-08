@@ -1,0 +1,3 @@
+[submodule "external_libs/igraph"]
+	path = external_libs/igraph
+	url = https://github.com/igraph/igraph.git
